@@ -66,7 +66,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     stakePoolAddress: new PublicKey(
       '2s3qXuGyMNedXS61Vi9XsRx7HuryyyZUYGyMtCrKUXva'
     ),
-    maxStaked: 3000,
+    maxStaked: 4444,
     websiteUrl: 'https://sardinesrevolt.com',
     receiptType: ReceiptType.Original,
     imageUrl: '/logos/sardinesrevolt.png',
