@@ -9,7 +9,7 @@ const nextConfig = {
     return [
       {
         source: '/:path(.*)',
-        destination: '/rogue-sharks',
+        destination: '/sardines-revolt',
         has: [
           {
             type: 'host',
@@ -18,6 +18,10 @@ const nextConfig = {
           {
             type: 'host',
             value: 'stake.unfrgtn.space'
+          },
+          {
+            type: 'host',
+            value: 'stake.sardinesrevolt.com'
           },
         ],
       },
